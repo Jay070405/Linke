@@ -1,0 +1,2 @@
+# 设置 MP4 视频的 MIME 类型
+AddType video/mp4 .mp4 
